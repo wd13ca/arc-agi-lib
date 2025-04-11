@@ -33,29 +33,29 @@ Test-Time Training for Abstract Reasoning** [GitHub](https://GitHub.com/ekinakyu
 
 ## 2024 ARC Paper Prize Winners
 
-**Combining Induction and Transduction for Abstract Reasoning**<br>[GitHub](https://github.com/xu3kev/BARC) | [Paper](https://arxiv.org/pdf/2411.02272)
+**Combining Induction and Transduction for Abstract Reasoning** [GitHub](https://github.com/xu3kev/BARC) | [Paper](https://arxiv.org/pdf/2411.02272)
 <br><br>
-**Searching Latent Program Spaces**<br>[GitHub](https://github.com/clement-bonnet/lpn) | [Paper](https://arxiv.org/pdf/2411.08706)
+**Searching Latent Program Spaces** [GitHub](https://github.com/clement-bonnet/lpn) | [Paper](https://arxiv.org/pdf/2411.08706)
 <br><br>
-**Mini-ARC: Solving Abstraction and Reasoning Puzzles with Small Transformer Models**<br>[GitHub](https://github.com/pfletcherhill/mini-arc) | [Paper](https://www.paulfletcherhill.com/mini-arc.pdf)
+**Mini-ARC: Solving Abstraction and Reasoning Puzzles with Small Transformer Models** [GitHub](https://github.com/pfletcherhill/mini-arc) | [Paper](https://www.paulfletcherhill.com/mini-arc.pdf)
 <br><br>
-**Towards Efficient Neurally-Guided Program Induction for ARC-AGI**<br>[Paper](https://arxiv.org/pdf/2411.17708)
+**Towards Efficient Neurally-Guided Program Induction for ARC-AGI** [Paper](https://arxiv.org/pdf/2411.17708)
 <br><br>
-**A 2D nGPT Model For ARC Prize**<br>[GitHub](https://github.com/jfpuget/ARC-AGI-Challenge-2024/) | [Paper](https://github.com/jfpuget/ARC-AGI-Challenge-2024/blob/main/arc.pdf)
+**A 2D nGPT Model For ARC Prize** [GitHub](https://github.com/jfpuget/ARC-AGI-Challenge-2024/) | [Paper](https://github.com/jfpuget/ARC-AGI-Challenge-2024/blob/main/arc.pdf)
 
 ## Other Noteworthy Projects
 
-**ConceptARC**<br>[GitHub](https://GitHub.com/victorvikram/ConceptARC) | [Paper](https://arxiv.org/pdf/2305.07141)
+**ConceptARC** [GitHub](https://GitHub.com/victorvikram/ConceptARC) | [Paper](https://arxiv.org/pdf/2305.07141)
 
-**1D-ARC**<br>[GitHub](https://GitHub.com/khalil-research/1D-ARC) | [Paper](https://arxiv.org/pdf/2305.18354)
+**1D-ARC** [GitHub](https://GitHub.com/khalil-research/1D-ARC) | [Paper](https://arxiv.org/pdf/2305.18354)
 
-**RE-ARC**<br>[GitHub](https://GitHub.com/michaelhodel/re-arc) | [Paper](https://arxiv.org/pdf/2404.07353)
+**RE-ARC** [GitHub](https://GitHub.com/michaelhodel/re-arc) | [Paper](https://arxiv.org/pdf/2404.07353)
 
 
 ## Other Resource Lists
 
-**ARC Prize Resources Page**<br>[Website](https://arcprize.org/resources)
+**ARC Prize Resources Page** [Website](https://arcprize.org/resources)
 
-**ARC Prize 2024 Winners & Technical Report Blog Post**<br>[Website](https://arcprize.org/blog/arc-prize-2024-winners-technical-report)
+**ARC Prize 2024 Winners & Technical Report Blog Post** [Website](https://arcprize.org/blog/arc-prize-2024-winners-technical-report)
 
-**arc-dataset-collection**<br>[GitHub](https://GitHub.com/neoneye/arc-dataset-collection)
+**arc-dataset-collection** [GitHub](https://GitHub.com/neoneye/arc-dataset-collection)
